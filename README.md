@@ -13,8 +13,7 @@
 
 #### Session 2 : 10:55am–12:05pm
 
-- [DataFrame Review](DataFrameReview.ipynb)
-- [Accessing your tabular data](AccessingDataFrames.ipynb) *(more complete reference)*
+- [Accessing your data](DataFrameAccess.ipynb)
 
 #### Session 3 : 1:20–2:30pm
 
@@ -37,7 +36,6 @@
 
 #### Session 2 : 10:55am–12:05pm
 
-- [JOIN types](JoinTypes.ipynb) *(optional background info)*
 - [Merge (JOIN) datasets](MergeDatasets.ipynb)
 - [Merge (JOIN) exercise](MergeExercise.ipynb)
 
@@ -48,6 +46,13 @@
 #### Session 4 : 2:45–3:55pm
 
 - [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb)
+
+---
+
+### Extras
+
+- [Full Accessing DataFrames](FullAccessingDataFrames.ipynb) *(longer, more complete reference)*
+- [JOIN types](JoinTypes.ipynb) *(optional background info on database JOINs)*
 
 ---
 
