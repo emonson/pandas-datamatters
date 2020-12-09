@@ -13,7 +13,7 @@
 
 #### Session 2 : 10:55am–12:05pm
 
-- [Accessing your data](DataFrameAccess.ipynb)
+- [Accessing your data](DataFrameAccess.ipynb) *(inline exercises)*
 
 #### Session 3 : 1:20–2:30pm
 
@@ -23,7 +23,7 @@
 #### Session 4 : 2:45–3:55pm
 
 - [Intro to Tidy Data](TidyDataIntro.ipynb)
-- [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
+- [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb) *(inline exercises)*
 
 ---
 
@@ -41,11 +41,11 @@
 
 #### Session 3 : 1:20–2:30pm
 
-- [Groupby Basics](Groupby_Basics.ipynb)
+- [Groupby Basics](Groupby_Basics.ipynb) *(inline exercises)*
 
 #### Session 4 : 2:45–3:55pm
 
-- [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb)
+- [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb) *(inline exercises)*
 
 ---
 
